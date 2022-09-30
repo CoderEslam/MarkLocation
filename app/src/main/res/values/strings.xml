@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarkLocation</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="apikay">AIzaSyDPGRtnApUgflivQfG8Vtz2F9ghtgKxvcw</string>
+</resources>

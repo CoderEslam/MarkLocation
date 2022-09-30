@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214683743974",
+    "project_id": "marklocation-db71b",
+    "storage_bucket": "marklocation-db71b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214683743974:android:273957f3c8dfa89a5c6d27",
+        "android_client_info": {
+          "package_name": "com.doubleclick.marklocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214683743974-tn8q4oib54c8upg60ujf1pd7433ec1lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJX8giqXj8M1jgU5QDu2kDB_2gu1OZ_KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214683743974-tn8q4oib54c8upg60ujf1pd7433ec1lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
